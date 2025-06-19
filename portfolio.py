@@ -565,9 +565,9 @@ PORTFOLIO_DATA = {
             end-to-end automation, enabling deployment in mobile or embedded applications for real-time driver assistance.""",
             "technologies": ["YOLOv11", "EasyOCR", "OpenCV", "Data Augmentation", "Computer Vision"],
             "images": [
-                r"images\ocr_1.png",
-                r"images\ocr_2.png",
-                r"images\ocr_3.png"
+                r"images/ocr_1.png",
+                r"images/ocr_2.png",
+                r"images/ocr_3.png"
             ],
             "demo_link": "#",
             "github_link": "#"
@@ -582,8 +582,8 @@ PORTFOLIO_DATA = {
             structured, contextually relevant multiple-choice questions for domain-specific self-assessment.""",
             "technologies": ["LangChain", "LLM", "PineCone", "Groq API", "AWS", "Vectorization", "FAISS"],
             "images": [
-                "D:\\AI LABRATORY\\project_images\\Quiz Maker\\Screenshot 2025-06-19 202629.png",
-                "D:\\AI LABRATORY\\project_images\\Quiz Maker\\Screenshot 2025-06-19 202828.png"
+                r"images/mcq_1.png",
+                r"images/mcq_2.png"
             ],
             "demo_link": "#",
             "github_link": "#"
