@@ -536,8 +536,8 @@ PORTFOLIO_DATA = {
             files to explain concepts, summarize key points, and generate custom quizzes for self-assessment.""",
             "technologies": ["LangChain", "LLM", "PineCone", "Groq API", "AWS", "Voice Recognition"],
             "images": [
-                r"images\ai_tutor_1.png",
-                r"images\ai_tutor_2.png"
+                r"images/ai_tutor_1.png",
+                r"images/ai_tutor_2.png"
             ],
             "demo_link": "#",
             "github_link": "#"
