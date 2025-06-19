@@ -680,7 +680,7 @@ def display_projects():
                     image = load_image(img_path)
                     if image:
                         with cols[i % len(cols)]:
-                            st.image(image, caption=f"Screenshot {i+1}", use_column_width=True)
+                            st.image(image, caption=f"Screenshot {i+1}", use_container_width=True)
                 except Exception as e:
                     with cols[i % len(cols)]:
                         st.info(f"📸 Image {i+1} - Add your project screenshot here")
