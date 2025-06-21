@@ -544,14 +544,17 @@ PORTFOLIO_DATA = {
         },
         
         {
-            "title": "🐥 Chick Health Prediction System",
+            "title": "🐥 Chick Vaccine Prediction System",
             "description": """A robust machine learning model to predict G Mean, mortality rate, and production outcomes in poultry 
             based on complex vaccine combinations and disease profiles. Processed high-dimensional datasets containing 
             vaccine sequences administered to chicks exposed to diseases such as IBDV, IBV, and NDV.Applied advanced feature engineering, dimensionality reduction (PCA), and supervised learning algorithms 
             to model the nonlinear interactions between vaccines and biological responses. Achieved significant 
             improvements in prediction accuracy, enabling cost reduction and optimization of vaccine protocols.""",
             "technologies": ["Python", "NumPy", "Pandas", "Scikit-learn", "Flask", "PCA"],
-            "images": [],
+            "images": [
+                 r"images/chick.jpeg",
+                 r"images/chick_2.jpeg",
+            ],
             "demo_link": "#",
             "github_link": "#"
         },
