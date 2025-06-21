@@ -550,7 +550,7 @@ PORTFOLIO_DATA = {
             vaccine sequences administered to chicks exposed to diseases such as IBDV, IBV, and NDV.Applied advanced feature engineering, dimensionality reduction (PCA), and supervised learning algorithms 
             to model the nonlinear interactions between vaccines and biological responses. Achieved significant 
             improvements in prediction accuracy, enabling cost reduction and optimization of vaccine protocols.""",
-            "technologies": ["Python", "NumPy", "Pandas", "Scikit-learn", "Flask", "PCA"],
+            "technologies": ["Python", "NumPy", "Pandas", "Scikit-learn", "Flask", "PCA", "MLflow"],
             "images": [
                  r"images/chick.jpeg",
                  r"images/chick_2.jpeg",
@@ -566,7 +566,7 @@ PORTFOLIO_DATA = {
             unbalanced dataset for classifying and localizing road signs across diverse driving environments.Following object detection, integrated an Optical Character Recognition (OCR) module to extract and 
             digitize textual information from detected signs with 95-99% text extraction accuracy. Designed for 
             end-to-end automation, enabling deployment in mobile or embedded applications for real-time driver assistance.""",
-            "technologies": ["YOLOv11", "EasyOCR", "OpenCV", "Data Augmentation", "Computer Vision"],
+            "technologies": ["CNN", "YOLOv11", "Transfer Learning", "OCR", "OpenCV", "Data Augmentation", "Computer Vision"],
             "images": [
                 r"images/ocr_1.png",
                 r"images/ocr_2.png",
@@ -583,7 +583,7 @@ PORTFOLIO_DATA = {
             optimized context extraction.Implemented semantic search pipelines using vector embeddings (Pinecone, FAISS) to retrieve topic-specific 
             sections based on user-specified queries. Applied advanced prompt engineering and output parsing to generate 
             structured, contextually relevant multiple-choice questions for domain-specific self-assessment.""",
-            "technologies": ["LangChain", "LLM", "PineCone", "Groq API", "AWS", "Vectorization", "FAISS"],
+            "technologies": ["LangChain", "Prompt Engineering", "PineCone", "Groq API", "AWS", "Vectorization", "Ollama"],
             "images": [
                 r"images/mcq_1.png",
                 r"images/mcq_2.png"
