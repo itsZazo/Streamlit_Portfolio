@@ -552,8 +552,8 @@ PORTFOLIO_DATA = {
             Enabled use-cases in content creation, visual storytelling, and concept art prototyping.""",
             "technologies": ["LangGraph", "Stable Diffusion", "Gemini", "AI Agent", "MCP", "Flask", "LLM"],
             "images": [
-                 r"images/chick.jpeg",
-                 r"images/chick_2.jpeg",
+                 r"images/im_gen_1.png",
+                 r"images/im_gen_2.png",
             ],
             "demo_link": "#",
             "github_link": "#"
