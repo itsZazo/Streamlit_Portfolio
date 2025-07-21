@@ -544,11 +544,11 @@ PORTFOLIO_DATA = {
         },
         
         {
-            "title": "🎨 AI Image Generation App (Stable Diffusion & Gemini)",
-            "description": """"An AI-powered web app that generates high-resolution images from natural language prompts using 
+            "title": "🎨 AI Image Generation Agent (Stable Diffusion & Gemini)",
+            "description": """"An AI-powered Agent that generates high-resolution images from natural language prompts using 
             Stable Diffusion. Users can enter creative prompts and receive custom artwork or photorealistic outputs in seconds. 
             Integrated user-friendly UI with Flask, allowing seamless image generation, download, and prompt editing. 
-            Optimized backend for speed and GPU efficiency using HuggingFace Diffusers and Transformers.
+            This Agent uses MCP (Model Context Protocol) based Tools, those tools help the Agent generate images.
             Enabled use-cases in content creation, visual storytelling, and concept art prototyping.""",
             "technologies": ["LangGraph", "Stable Diffusion", "Gemini", "AI Agent", "MCP", "Flask", "LLM"],
             "images": [
