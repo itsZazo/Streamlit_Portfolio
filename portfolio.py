@@ -544,6 +544,22 @@ PORTFOLIO_DATA = {
         },
         
         {
+            "title": "🎨 AI Image Generation App (Stable Diffusion & Gemini)",
+            "description": """"An AI-powered web app that generates high-resolution images from natural language prompts using 
+            Stable Diffusion. Users can enter creative prompts and receive custom artwork or photorealistic outputs in seconds. 
+            Integrated user-friendly UI with Flask, allowing seamless image generation, download, and prompt editing. 
+            Optimized backend for speed and GPU efficiency using HuggingFace Diffusers and Transformers.
+            Enabled use-cases in content creation, visual storytelling, and concept art prototyping.""",
+            "technologies": ["LangGraph", "Stable Diffusion", "Gemini", "AI Agent", "MCP", "Flask", "LLM"],
+            "images": [
+                 r"images/chick.jpeg",
+                 r"images/chick_2.jpeg",
+            ],
+            "demo_link": "#",
+            "github_link": "#"
+        },
+        
+         {
             "title": "🐥 Chick Vaccine Prediction System",
             "description": """A robust machine learning model to predict G Mean, mortality rate, and production outcomes in poultry 
             based on complex vaccine combinations and disease profiles. Processed high-dimensional datasets containing 
