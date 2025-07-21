@@ -497,7 +497,7 @@ PORTFOLIO_DATA = {
         "name": "AITZAZ AHMED",
         "title": "AI ENGINEER & DEVELOPER",
         "email": "official.aitzaz@gmail.com",
-        "linkedin": "https://linkedin.com/in/yourprofile",
+        "linkedin": "www.linkedin.com/in/aitzaz-ahmed-akazazo",
         "github": "https://github.com/itsZazo",
         "bio": """Results-driven AI Developer with expertise in machine learning, deep learning (ANNs, CNNs, RNNs), 
         and Generative AI. Skilled in model optimization, feature engineering, and hyperparameter tuning to 
